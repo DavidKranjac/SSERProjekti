@@ -1,0 +1,13 @@
+C:\Users\Učenik\source\repos\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\obj\Debug\KranjacDavidIspit1Zad4.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\obj\Debug\KranjacDavidIspit1Zad4.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\bin\Debug\KranjacDavidIspit1Zad4.exe.config
+C:\Users\Učenik\source\repos\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\bin\Debug\KranjacDavidIspit1Zad4.exe
+C:\Users\Učenik\source\repos\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\bin\Debug\KranjacDavidIspit1Zad4.pdb
+C:\Users\Učenik\source\repos\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\obj\Debug\KranjacDavidIspit1Zad4.exe
+C:\Users\Učenik\source\repos\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\obj\Debug\KranjacDavidIspit1Zad4.pdb
+C:\Users\Učenik\source\repos\KranjacDavidIspit1\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\obj\Debug\KranjacDavidIspit1Zad4.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\KranjacDavidIspit1\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\obj\Debug\KranjacDavidIspit1Zad4.exe
+C:\Users\Učenik\source\repos\KranjacDavidIspit1\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\obj\Debug\KranjacDavidIspit1Zad4.pdb
+C:\Users\Učenik\source\repos\KranjacDavidIspit1\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\bin\Debug\KranjacDavidIspit1Zad4.exe.config
+C:\Users\Učenik\source\repos\KranjacDavidIspit1\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\bin\Debug\KranjacDavidIspit1Zad4.exe
+C:\Users\Učenik\source\repos\KranjacDavidIspit1\KranjacDavidIspit1Zad4\KranjacDavidIspit1Zad4\bin\Debug\KranjacDavidIspit1Zad4.pdb
