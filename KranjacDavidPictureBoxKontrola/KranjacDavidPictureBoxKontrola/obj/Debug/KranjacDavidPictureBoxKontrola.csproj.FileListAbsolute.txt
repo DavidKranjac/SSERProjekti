@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\bin\Debug\KranjacDavidPictureBoxKontrola.exe.config
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\bin\Debug\KranjacDavidPictureBoxKontrola.exe
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\bin\Debug\KranjacDavidPictureBoxKontrola.pdb
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\obj\Debug\KranjacDavidPictureBoxKontrola.Form1.resources
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\obj\Debug\KranjacDavidPictureBoxKontrola.Properties.Resources.resources
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\obj\Debug\KranjacDavidPictureBoxKontrola.csproj.GenerateResource.cache
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\obj\Debug\KranjacDavidPictureBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\obj\Debug\KranjacDavidPictureBoxKontrola.exe
+C:\Users\David\source\repos\KranjacDavidPictureBoxKontrola\KranjacDavidPictureBoxKontrola\obj\Debug\KranjacDavidPictureBoxKontrola.pdb
