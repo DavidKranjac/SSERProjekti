@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\bin\Debug\KranjacDavidTrackBarKontrola.exe.config
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\bin\Debug\KranjacDavidTrackBarKontrola.exe
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\bin\Debug\KranjacDavidTrackBarKontrola.pdb
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\obj\Debug\KranjacDavidTrackBarKontrola.csprojAssemblyReference.cache
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\obj\Debug\KranjacDavidTrackBarKontrola.Form1.resources
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\obj\Debug\KranjacDavidTrackBarKontrola.Properties.Resources.resources
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\obj\Debug\KranjacDavidTrackBarKontrola.csproj.GenerateResource.cache
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\obj\Debug\KranjacDavidTrackBarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\obj\Debug\KranjacDavidTrackBarKontrola.exe
+C:\Users\David\source\repos\KranjacDavidTrackBarKontrola\KranjacDavidTrackBarKontrola\obj\Debug\KranjacDavidTrackBarKontrola.pdb
