@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\bin\Debug\KranjacDavidTimer.exe.config
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\bin\Debug\KranjacDavidTimer.exe
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\bin\Debug\KranjacDavidTimer.pdb
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\obj\Debug\KranjacDavidTimer.Form1.resources
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\obj\Debug\KranjacDavidTimer.Properties.Resources.resources
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\obj\Debug\KranjacDavidTimer.csproj.GenerateResource.cache
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\obj\Debug\KranjacDavidTimer.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\obj\Debug\KranjacDavidTimer.exe
+C:\Users\David\source\repos\KranjacDavidTimer\KranjacDavidTimer\obj\Debug\KranjacDavidTimer.pdb
