@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\obj\Debug\KranjacDavidImageList1.Form1.resources
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\obj\Debug\KranjacDavidImageList1.Properties.Resources.resources
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\obj\Debug\KranjacDavidImageList1.csproj.GenerateResource.cache
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\obj\Debug\KranjacDavidImageList1.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\bin\Debug\KranjacDavidImageList1.exe.config
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\bin\Debug\KranjacDavidImageList1.exe
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\bin\Debug\KranjacDavidImageList1.pdb
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\obj\Debug\KranjacDavidImageList1.exe
+C:\Users\David\source\repos\KranjacDavidImageList1\KranjacDavidImageList1\obj\Debug\KranjacDavidImageList1.pdb
