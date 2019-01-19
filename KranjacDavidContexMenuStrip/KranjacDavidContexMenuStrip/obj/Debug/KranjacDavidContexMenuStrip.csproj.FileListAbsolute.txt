@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\bin\Debug\KranjacDavidContexMenuStrip.exe.config
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\bin\Debug\KranjacDavidContexMenuStrip.exe
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\bin\Debug\KranjacDavidContexMenuStrip.pdb
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\obj\Debug\KranjacDavidContexMenuStrip.csprojAssemblyReference.cache
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\obj\Debug\KranjacDavidContexMenuStrip.Form1.resources
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\obj\Debug\KranjacDavidContexMenuStrip.Properties.Resources.resources
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\obj\Debug\KranjacDavidContexMenuStrip.csproj.GenerateResource.cache
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\obj\Debug\KranjacDavidContexMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\obj\Debug\KranjacDavidContexMenuStrip.exe
+C:\Users\David\source\repos\KranjacDavidContexMenuStrip\KranjacDavidContexMenuStrip\obj\Debug\KranjacDavidContexMenuStrip.pdb
