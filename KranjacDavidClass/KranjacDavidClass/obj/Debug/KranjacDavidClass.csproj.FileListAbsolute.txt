@@ -1,0 +1,7 @@
+C:\Users\Učenik.IR-R03\source\repos\KranjacDavidClass\KranjacDavidClass\obj\Debug\KranjacDavidClass.csprojResolveAssemblyReference.cache
+C:\Users\Učenik.IR-R03\source\repos\KranjacDavidClass\KranjacDavidClass\obj\Debug\KranjacDavidClass.csproj.CoreCompileInputs.cache
+C:\Users\Učenik.IR-R03\source\repos\KranjacDavidClass\KranjacDavidClass\bin\Debug\KranjacDavidClass.exe.config
+C:\Users\Učenik.IR-R03\source\repos\KranjacDavidClass\KranjacDavidClass\bin\Debug\KranjacDavidClass.exe
+C:\Users\Učenik.IR-R03\source\repos\KranjacDavidClass\KranjacDavidClass\bin\Debug\KranjacDavidClass.pdb
+C:\Users\Učenik.IR-R03\source\repos\KranjacDavidClass\KranjacDavidClass\obj\Debug\KranjacDavidClass.exe
+C:\Users\Učenik.IR-R03\source\repos\KranjacDavidClass\KranjacDavidClass\obj\Debug\KranjacDavidClass.pdb
